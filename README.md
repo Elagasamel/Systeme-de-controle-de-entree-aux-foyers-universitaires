@@ -1,0 +1,2 @@
+# Syst-me-de-contr-le-d-entr-e-aux-foyers-universitaires---base-de-RFID
+ Ce projet propose un prototype de conception du système, la mise en œuvre et la  description des outils et des technologies nécessaires pour développer une RFID (Radio Frequency Identification) dédiée pour contrôler l’accès des étudiants au  foyers universitaires, un système pour faciliter la vérification gratuite et rapide des  données liés aux étudiants ainsi que le personnel administratif.
